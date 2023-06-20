@@ -11,11 +11,11 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <a href="#memo-licença">Licença</a>
 </p>
 
-<br>
-
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src="./.github/Cover.jpg">
 </p>
+
+<br>
 
 ## 🚀 Tecnologias
 
